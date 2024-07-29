@@ -32,4 +32,4 @@ La distribución de evaluaciones es de la siguiente manera:
    - Mini tareas: 40%
    - Proyecto: 60%
 
-Se recomienda dedicar semanalmente (z) horas extra a las cátedras por semana.
+Se recomienda dedicar semanalmente 3 horas extra a las cátedras por semana.
