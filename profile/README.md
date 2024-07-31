@@ -2,7 +2,7 @@
 
 Curso: CD2201-16
 
-Bienvenidos al curso de Astronomía y ciencia de Datos: de las Estrellas a los Números. Este curso nace con la idea de poder entregar una visión tanto teórica como práctica de la astronomía. Se espera que los estudiantes se familiarizen con técnicas y herramientas para ciencia de datos, adquieran conocimientos teóricos/instrumentales en astronomía, para finalmente trabajar en un proyecto.
+Bienvenidos al curso de Astronomía y ciencia de Datos: de las Estrellas a los Números. Este curso nace con la idea de poder entregar una visión tanto teórica como práctica de la astronomía. Se espera que los estudiantes se familiarizen con técnicas y herramientas básicas para ciencia de datos, adquieran conocimientos teóricos/instrumentales en astronomía, para finalmente trabajar en un proyecto.
 
 Metodología de aprendizaje:
 ===========================
@@ -10,16 +10,18 @@ Metodología de aprendizaje:
 El curso consta de las siguientes secciones:
 
 1. Cátedras: Clases teóricas/prácticas en las cuales se les enseñará lo necesario respecto del curso.
-   - Clase 1: (incluir títulos de clases)
-   - Clase 2:
-   - Clase 3:
-   - Clase 4:
-   - Clase 5:
-   - Clase 6:
-   - Clase 7:
-   - Clase 8:
-   - Clase 9:
-2. Laboratorios: Clases prácticas, enfocadas en aplicaciones de código
+   - Clase 1: Herramientas Fundamentales I: Software y paquetes esenciales 
+   - Clase 2: Herramientas Fundamentales II: Estadística
+   - Clase 3: Herramientas Fundamentales II: Ajuste de Modelos
+   - Clase 4: Introducción a los datos astronómicos
+   - Clase 5: El sistema Solar y las Estrellas
+   - Clase 6: Galaxias y Cosmología
+   - Clase 7: Introducción al Aprendizaje Supervisado I: Métricas de Evaluación de Modelos
+   - Clase 8: Introducción al Aprendizaje Supervisado II: Random Forest
+   - Clase 9: Introducción al Aprendizaje Supervisado III: Redes Neuronales
+   - Clase 10: La Ética en Ciencias
+   - Clase 11: Buenas Prácticas para Presentar
+2. Taller práctico: Enfocado en aplicaciones de código
 3. Mini tareas: Con el objetivo de aprender a usar las herramientas enseñadas, habrán (x) mini tareas, las cuales se estima tengan 1-2 horas de dedicación.
 4. Proyecto final: A partir de la clase (y) los alumnos deberán seleccionar un proyecto para trabajar. En caso de que los alumnos propongan un proyecto, este será sujeto a evaluación de los docentes.
 
