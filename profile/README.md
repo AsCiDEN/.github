@@ -23,9 +23,12 @@ El curso consta de las siguientes secciones:
    - CLASES DE MONITOREO DE PROYECTOS
    - Clase 10 (12/11/24): La Ética en Ciencias
    - Clase 11 (19/11/24): Buenas Prácticas para Presentar
+   
 2. Taller práctico: Enfocado en aplicaciones de código. Se utilizará un bloque de clase de los días jueves. (5/09/24) ?
-3. Mini tareas: Con el objetivo de aprender a usar las herramientas enseñadas, habrán 4 mini tareas, las cuales se estima tengan 1-2 horas de dedicación. El plazo de entrega es de 1 semana (De jueves a jueves durane las primeras 4 semanas de clases).
-5. Proyecto final: A partir de la Clase 6 los alumnos deberán seleccionar un proyecto para trabajar. En caso de que los alumnos propongan un proyecto, este será sujeto a evaluación de los docentes.
+   
+4. Mini tareas: Con el objetivo de aprender a usar las herramientas enseñadas, habrán 4 mini tareas, las cuales se estima tengan 1-2 horas de dedicación. El plazo de entrega es de 1 semana (De jueves a jueves durane las primeras 4 semanas de clases).
+   
+6. Proyecto final: A partir de la Clase 6 los alumnos deberán seleccionar un proyecto para trabajar. En caso de que los alumnos propongan un proyecto, este será sujeto a evaluación de los docentes.
     - Presentaciones Finales (Semana del 2/12/24)
     - Informe Final (Semana del 9/12/24)
 
