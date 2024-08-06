@@ -4,7 +4,7 @@ Curso: CD2201-16
 
 Bienvenidos al curso de Astronomía y ciencia de Datos: de las estrellas a los números. Este curso nace con la idea de poder entregar una visión tanto teórica como práctica de la astronomía. Se espera que los estudiantes se familiarizen con técnicas y herramientas básicas para ciencia de datos, adquieran conocimientos teóricos/instrumentales en astronomía, los cuales terminarán aplicando en un proyecto a su elección.
 
-##Programa del curso:
+Programa del curso:
 ===========================
 
 El curso consta de las siguientes secciones:
@@ -31,7 +31,7 @@ El curso consta de las siguientes secciones:
     - Presentaciones Finales (Semana del 2/12/24)
     - Informe Final (Semana del 9/12/24)
 
-##Evaluaciones
+Evaluaciones
 ============
 
 La distribución de evaluaciones es de la siguiente manera:
