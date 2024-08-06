@@ -25,7 +25,7 @@ El curso consta de las siguientes secciones:
    - Clases de monitoreo de proyectos (desde la clase 6).
    
    
-2. Mini tareas: Con el objetivo de aprender a usar las herramientas enseñadas, habrán 4 mini tareas, las cuales se estima tengan 1-2 horas de dedicación. El plazo de entrega es de 1 semana (De jueves a jueves durane las primeras 4 semanas de clases).
+2. Mini tareas: Con el objetivo de aprender a usar las herramientas enseñadas, habrán 4 mini tareas, las cuales se estima tengan 1-2 horas de dedicación. El plazo de entrega es de 1 semana (De jueves a jueves durante las primeras 4 semanas de clases).
    
 3. Proyecto final: A partir de la Clase 6 los alumnos deberán seleccionar un proyecto para trabajar. En caso de que los alumnos propongan un proyecto, este será sujeto a evaluación de los docentes.
     - Presentaciones Finales (Semana del 2/12/24)
